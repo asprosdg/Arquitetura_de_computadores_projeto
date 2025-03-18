@@ -1,5 +1,5 @@
-- Coletar artigos, livros e materiais confiáveis sobre computação 
-quântica - Estudar os conceitos fundamentais ( qubits, superposição, 
-emaranhamento, interferência) - Explorar a diferença entre processadores 
-quânticos e convencionais - Produzir um relatório inicial com as 
-informações coletadas
+Coletar artigos científicos, livros e materiais confiáveis sobre computação quântica.
+Estudar os conceitos fundamentais: qubits, superposição, emaranhamento e interferência.
+Explorar a diferença entre processadores quânticos e convencionais.
+Produzir um relatório inicial com as informações coletadas.
+
