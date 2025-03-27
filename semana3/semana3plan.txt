@@ -1,4 +1,0 @@
-Redação dos tópicos sobre funcionamento dos processadores quânticos.
-Desenvolvimento do conteúdo sobre diferenças entre computadores clássicos e quânticos.
-Coleta de exemplos e estudos de caso sobre processadores quânticos existentes (IBM, Google, Microsoft).
-Registro dos avanços no repositório do GitHub.
